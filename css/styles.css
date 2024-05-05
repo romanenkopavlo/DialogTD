@@ -1,0 +1,28 @@
+.wrapper {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.apply-button {
+    display: block;
+    margin: 16px auto;
+}
+
+.error-message {
+    color: #E0115F;
+}
+
+.your-date {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#dialog {
+    text-align: center;
+}
